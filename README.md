@@ -21,3 +21,8 @@ Set Stop Time to 1 in the simulation setup to see the simulation crawl.
 - The OpenModelica package manager indexes them, so `installPackage(Debugging)` or the package manager dialog in
   OMEdit installs them, also in the web OMEdit at https://playground.openmodelica.org/.
 - The tutorial exercises in the browser: https://playground.openmodelica.org/tutorial/
+
+## License
+
+Copyright (c) 1998-2026, Open Source Modelica Consortium (OSMC) and contributors.
+BSD 3-Clause License, the same as the Modelica Standard Library, see [LICENSE](LICENSE).
